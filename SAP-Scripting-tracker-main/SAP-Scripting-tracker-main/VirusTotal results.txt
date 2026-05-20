@@ -1,0 +1,84 @@
+*COM.ps1
+Hash SHA256: 48faf1f29c56b025edbe1ffd0dfbe1f95555857722f5bc2dece9aaeb182df881
+https://www.virustotal.com/gui/file/48faf1f29c56b025edbe1ffd0dfbe1f95555857722f5bc2dece9aaeb182df881/detection
+2024/07/12 - No security vendors and no sandboxes flagged this file as malicious
+
+*Interop.SAPFEWSELib.dll
+Hash SHA256: 21a1ba6224617648ed77f28a3385b49c43e0cc202f831d2133f346b254a0474d
+https://www.virustotal.com/gui/file/21a1ba6224617648ed77f28a3385b49c43e0cc202f831d2133f346b254a0474d/detection
+2024/12/28 - No security vendors and no sandboxes flagged this file as malicious
+
+*License.txt
+Hash SHA256: 3521acf8779d96062f7836a9584bb0cc42a5241911ce33b04f96f5fe0755b0cc
+https://www.virustotal.com/gui/file/3521acf8779d96062f7836a9584bb0cc42a5241911ce33b04f96f5fe0755b0cc/detection
+2023/02/08 - No security vendors and no sandboxes flagged this file as malicious
+
+*Recorder.exe
+Hash SHA256: 258385b4685c9d5d73be840f56db90ae7ba17a7d9fb0c5158450cac16a37ff35
+https://www.virustotal.com/gui/file/258385b4685c9d5d73be840f56db90ae7ba17a7d9fb0c5158450cac16a37ff35/detection
+2024/12/28 - MaxSecure > Trojan.Malware.300983.susgen
+
+*Recorder.exe.config
+Hash SHA256: 8305f905b29a9202d59bc06753ac1acc00b3b4c8b951d820ca7ac850e7a4f7cc
+https://www.virustotal.com/gui/file/8305f905b29a9202d59bc06753ac1acc00b3b4c8b951d820ca7ac850e7a4f7cc/detection
+2024/12/28 - No security vendors and no sandboxes flagged this file as malicious
+
+*Snippets.xml
+Hash SHA256: 1384be00028c66346f518228af78e82b77fb2bed21fb42e328e98a9c77ccfe6a
+https://www.virustotal.com/gui/file/1384be00028c66346f518228af78e82b77fb2bed21fb42e328e98a9c77ccfe6a/detection
+2024/08/14 - No security vendors and no sandboxes flagged this file as malicious
+
+*Tracker.exe
+Hash SHA256: 9c694657e400703ce66b58104dd3ef8b6887c0891b65a6d7672df74f83860e02
+https://www.virustotal.com/gui/file/9c694657e400703ce66b58104dd3ef8b6887c0891b65a6d7672df74f83860e02/detection
+2024/12/28 - No security vendors and no sandboxes flagged this file as malicious
+
+*Tracker.ini
+Hash SHA256: f3d46c792426855247580c57ca414ef24a83c9025b1241f7e1a798baff0d7476
+https://www.virustotal.com/gui/file/f3d46c792426855247580c57ca414ef24a83c9025b1241f7e1a798baff0d7476/detection
+2024/08/14 - No security vendors and no sandboxes flagged this file as malicious
+
+*Tracker.pdf
+Hash SHA256: 350454d9f5f854affaed427958f3d568509ed6b9f38a563321827fda4efa18af
+https://www.virustotal.com/gui/file/350454d9f5f854affaed427958f3d568509ed6b9f38a563321827fda4efa18af/detection
+2024/12/28 - No security vendors and no sandboxes flagged this file as malicious
+
+*Tracker.cs2exe.cmd
+Hash SHA256: da23ed0e8a86c204ea6401c79d60858eecd4fe383e4e61117d9116fd1d20e8ec
+https://www.virustotal.com/gui/file/182a3785422080a66dc88033a68099828e826f5216f72c56478565061b1770fb/detection
+2023/02/08 - No security vendors and no sandboxes flagged this file as malicious
+
+*Tracker.cs2exe.net.cmd
+Hash SHA256: 59ca87452542c6c91c6f5b866604cd66ae45c7de0fead41f310382d2da1c8c60
+https://www.virustotal.com/gui/file/59ca87452542c6c91c6f5b866604cd66ae45c7de0fead41f310382d2da1c8c60/detection
+2024/12/28 - No security vendors and no sandboxes flagged this file as malicious
+
+*Tracker.RunScript.net8.csproj
+Hash SHA256: 8cf5c93b11a3f11a0854b0fd09e0f22df2c40461704426ffa38fdc36f77db8b2
+https://www.virustotal.com/gui/file/8cf5c93b11a3f11a0854b0fd09e0f22df2c40461704426ffa38fdc36f77db8b2/detection
+2024/02/25 - No security vendors and no sandboxes flagged this file as malicious
+
+*Tracker.vb2exe.cmd
+Hash SHA256: 2b9912d7e864f06fead34e56a195cbe660018cb536e60768272d5ff90ecb3a4b
+https://www.virustotal.com/gui/file/2b9912d7e864f06fead34e56a195cbe660018cb536e60768272d5ff90ecb3a4b/detection
+2023/02/08 - No security vendors and no sandboxes flagged this file as malicious
+
+*jacob/jacob.chm
+Hash SHA256: 2e24639be53a28b42ad25958b185e3d63137039a6f8a73ff0c7778c484f16832
+https://www.virustotal.com/gui/file/2e24639be53a28b42ad25958b185e3d63137039a6f8a73ff0c7778c484f16832/detection
+2024/05/05 - No security vendors and no sandboxes flagged this file as malicious
+
+*jacob/jacob.jar
+Hash SHA256: 6c59d579ea8ac6c170f01e9e01474ab8e31f8bf5c3b33d2b55aac06c57f3d624
+https://www.virustotal.com/gui/file/6c59d579ea8ac6c170f01e9e01474ab8e31f8bf5c3b33d2b55aac06c57f3d624/detection
+2024/05/05 - No security vendors and no sandboxes flagged this file as malicious
+
+*jacob/jacob-1.21-x64.dll
+Hash SHA256: 6b44fada4f2acb61e664c48c4c545117f17353bf7393a685010104c0a13dc173
+https://www.virustotal.com/gui/file/6b44fada4f2acb61e664c48c4c545117f17353bf7393a685010104c0a13dc173/detection
+2024/05/05 - No security vendors and no sandboxes flagged this file as malicious
+
+*jacob/license.txt
+Hash SHA256: e7ecb6b02e621c86e8993fdaa6768e81d5833ba268d5a92b86f73d5678318fdc
+https://www.virustotal.com/gui/file/e7ecb6b02e621c86e8993fdaa6768e81d5833ba268d5a92b86f73d5678318fdc/detection
+2023/02/08 - No security vendors and no sandboxes flagged this file as malicious
